@@ -1,5 +1,3 @@
-# ProductCatalog_Jb
-
 # Product Catalog Cache Service (Spring Boot + Redis)
 
 This project demonstrates a production-grade backend optimization using Redis caching with Spring Boot. It simulates a frequently accessed API — like a "Featured Product Catalog" — where caching is used to minimize database load and significantly reduce response time.
